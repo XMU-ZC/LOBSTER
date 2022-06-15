@@ -1,4 +1,4 @@
-# LOBSTER
+# LOBSTER/龙虾3D打印机主板
 基于STM32的3D打印机主板/A kind of motherboard for 3D printer based on STM32  
 基于apk2.1主板并吸收祁大佬8z主板、LSP主板、XCJX-8AXIS等开源3D打印主板优点并改进，感谢各位大佬无私开源  
 ![3D](https://user-images.githubusercontent.com/104925289/173751223-3e6873e7-ce6d-464a-b61b-260ec9649407.png)

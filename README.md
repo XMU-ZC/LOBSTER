@@ -2,7 +2,7 @@
 基于STM32的3D打印机主板/A kind of motherboard for 3D printer based on STM32  
 基于apk2.1主板并吸收祁大佬8z主板、LSP主板、XCJX-8AXIS等开源3D打印主板优点并改进，感谢各位大佬无私开源  
 ![3D](https://user-images.githubusercontent.com/104925289/173751223-3e6873e7-ce6d-464a-b61b-260ec9649407.png)
-![3D正](https://user-images.githubusercontent.com/104925289/174103066-1c48fb9c-e041-4e17-8e6e-71cdba208790.png)
+![3D正](https://user-images.githubusercontent.com/104925289/174103066-1c48fb9c-e041-4e17-8e6e-71cdba208790.png)  
 主控使用STM32F103C6T6价格极低，脚位兼容C8T6和f303系列  
 5v使用ry9320/8310供电方案，体积小，外围简单，成本低  
 me6118提供3.3v电源，完美代替1117  
